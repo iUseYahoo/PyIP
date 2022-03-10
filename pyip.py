@@ -20,7 +20,6 @@ print(text2art("PyIP") + "Made by github.com/iUseYahoo\nIf you want to track you
 class mainClass:
     def trackIP(grabip):
 
-
         if grabip == "":
           print("[+] Tracking your own IP.")
         else:
